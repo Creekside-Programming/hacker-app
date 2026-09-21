@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=hacker-app
+Comment=The best-in-class hacking app for all your hacking needs
+Exec=hacker-app
+Icon=hacker-app
+Terminal=false
+Categories=Utility;Internet;Development
