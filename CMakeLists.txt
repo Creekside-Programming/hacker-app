@@ -32,7 +32,7 @@ install(
 set(CPACK_PACKAGE_NAME "hacker-app")
 set(CPACK_PACKAGE_VERSION "${PROJECT_VERSION}")
 set(CPACK_PACKAGE_DESCRIPTION_SUMMARY "The best-in-class hacking app for all your hacking needs")
-set(CPACK_PACKAGE_CONTACT "contact@chsprogramming.org")
+set(CPACK_PACKAGE_CONTACT "Creekside Programming <contact@chsprogramming.org>")
 
 set(CPACK_GENERATOR "DEB")
 
