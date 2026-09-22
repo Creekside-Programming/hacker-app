@@ -9,9 +9,7 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
 
 find_package(Qt6 REQUIRED COMPONENTS Widgets)
 
-qt_standard_project_setup()
-
-qt_add_executable(hacker-app
+add_executable(hacker-app
     src/main.cpp
 )
 
